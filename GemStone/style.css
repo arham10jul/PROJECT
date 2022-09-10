@@ -1,0 +1,21 @@
+.stion-choose .card {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%);
+    transition: 0.3s;
+    width: 18%;
+    margin-top: 4px;
+    border-radius: 15px;
+    margin-left: 77px;
+    transition: transform 0.9s;
+    transform-style: preserve-3d;
+    text-align: center;
+    margin-bottom: 20px;
+    }
+    .stion-choose .card:hover {
+    box-shadow: 0 8px 18px 0 rgba(8, 8, 8, 0.219);
+    transform: rotateY(360deg);
+    }
+    .stion-choose .sec {
+    padding: 10px 17px;
+    background: linear-gradient(324deg, rgba(255,103,27,1) 0%, rgba(255,193,14,1) 100%);;
+    border-radius: 15px;
+    }
